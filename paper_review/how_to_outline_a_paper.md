@@ -19,3 +19,5 @@ In this context, I asked a question: **which information should I extract from a
 - **Implication**: How the findings affect or spread out researches in the field of study?
 - **Unanswered**: What remains unanswered? This may be discussed within the paper, or the one should figure it out.
 - **Others**: Private comments (e.g. method or a writing style)
+
+From now on, I would specify those components with citing information at first and then write about the "others" component that may include context or purpose of reading the paper.
