@@ -1,30 +1,11 @@
 ---
 title: "Paper Review"
-date: "`r Sys.Date()`"
 author: hoontaeklee
 ---
-
-
-```{r knitr_init, echo = FALSE, cache = FALSE, warning = FALSE}
-library(knitr)
-library(rmdformats)
-
-## Global options
-options(max.print="75")
-opts_chunk$set(echo=FALSE,
-	             cache=TRUE,
-               prompt=FALSE,
-               tidy=TRUE,
-               comment=NA,
-               message=FALSE,
-               warning=FALSE)
-opts_knit$set(width=75)
-```
 
 # 13 April, 2019
 
 Bonan, G. B. (2016). Forests, climate, and public policy: A 500-year interdisciplinary odyssey. **_Annual Review of Ecology, Evolution, and Systematics_**, 47, 97–121.  
-
 
 I anticipated that this paper explains how the results from forest-climate research have been deployed to public policy. However, this paper had its focus to forest-climate relationships, and "these relationships should be understood well to be properly applied to policy" was all about the public policy. 
 
