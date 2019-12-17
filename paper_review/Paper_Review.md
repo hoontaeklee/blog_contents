@@ -136,12 +136,14 @@ Smith‐Martin, C.M., Xu, X., Medvigy, D., Schnitzer, S.A. and Powers, J.S. (201
   1. Do mature lianas invest less biomass in stems compared to trees? The authors tried to compare the investment strategy between lianas and trees.
   2. Do juveniles follow the same allocation patterns as mature individuals?
   3. Is either leaf phenology of life form a predictor of rooting depth?
+  
 - **Context**:
   - The number of Lianas are increasing and it is needed to examine their influence on the ecosystem and global climate (e.g. C cycle) 
   - Plant biomass partitioning and rooting depth play pivotal roles in both ecological theory (APT: a constant allocation vs OPT: dynamic allocation in cope with resource limitation) and in ecosystem simulation models (phenology, WUE, ...).
   1. Lianas may invest less biomass to stems and more to roots and leaves because they use trees for mechanical support.
   2. The biomass allocation pattern by age is unknown.
   3. There have been coflicts on lianas' rooting depth because of lack of *in-situ* survey. why did the authors try to estimate the rooting depth?
+  
 - **Answer**
   1. Mature lianas and trees showed similar proportion of biomass investment to stems.
   2. No. Juvenile lianas, deciduous trees and evergreen trees had a different allocation pattern while mature lianas showed a similar pattern with that of surrounding trees.
@@ -149,11 +151,11 @@ Smith‐Martin, C.M., Xu, X., Medvigy, D., Schnitzer, S.A. and Powers, J.S. (201
 - **Implication**:
   - The biomass allocation pattern of lianas changes with its age. So, it cannot be estimated from a few experiments and more researches are needed.
   - Rooting depth differed by the life form (lianas < deciduous trees < evergreen trees)
+  
 - **Unanswered**:
   - How lianas maintain similar or better water status and grow more during seasonal drought?
   - How co-occurring trees of lianas grow more during the wet season in semi-moist forest?
   - Do lianas and trees have different amount of fine root biomass?
-
 
 - **Comment**: This study is one of the leading studies that try to incorporate lianas into the ecosystem model. The results of this study are quite robust as they are based on a large dataset from *in-situ* survey including harvesting with well-organized factorial experiment design and relevant statistical methologies. This data and ED2 were examined by each other. In sum, this study a well-done work given a unique context (Lianas), focused questions, well-organized experiment design, proper analyzing ways coping with corresponding questions, and applying a terrestrial ecosystem model. 
 
