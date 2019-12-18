@@ -159,6 +159,31 @@ Smith‐Martin, C.M., Xu, X., Medvigy, D., Schnitzer, S.A. and Powers, J.S. (201
 
 - **Comment**: This study is one of the leading studies that try to incorporate lianas into the ecosystem model. The results of this study are quite robust as they are based on a large dataset from *in-situ* survey including harvesting with well-organized factorial experiment design and relevant statistical methologies. This data and ED2 were examined by each other. In sum, this study a well-done work given a unique context (Lianas), focused questions, well-organized experiment design, proper analyzing ways coping with corresponding questions, and applying a terrestrial ecosystem model. 
 
+# 18 December, 2019
+
+Fisher, R., McDowell, N., Purves, D., Moorcroft, P., Sitch, S., Cox, P., Huntingford, C., Meir, P. and Ian Woodward, F. (2010), Assessing uncertainties in a second‐generation dynamic vegetation model caused by ecological scale limitations. **_New Phytologist_**, 187: 666-681. doi:10.1111/j.1469-8137.2010.03340.x
+
+- **Question**:
+  1. How demographic processes of two-dimensional spatial scales influence simulations of community structure, and responses of ecosystems to climate change?
+  
+- **Context**:
+  - Recently second-generation DGVMs have become advanced in their capability to simulate short-term surface gas and energy exchanges and atmospheric CO~2.
+  - However, the 2^nd gen. DGVMs are still lack in representation of demographic processes because of insufficient observations.
+  - This poor representations of competition and coexistence may bring uncertainties in simulation of the community structure and responses of ecosystem to climate change.
+  
+- **Answer**
+  1. Varying the five unconstrained parameters (seed advection, seed mixing, sapling survival, competitive exclusion, and plnat mortality) **introduced diverse predictions of community structure** ranging from monocultures to equal co-dominance of the seven PFTs.
+  2. When exposed to a climate change scenario, the competing impacts of CO~2 fertilization and increasing plant mortality **caused ecosystem biomass to diverge substantially** between simulations.
+  
+- **Implication**:
+  - Demographic processes represent a large source of uncertainty in DGVM predictions.
+  
+- **Unanswered**:
+  - Examining the uncertainties caused poor representations of demographic processes by top-down approach
+
+- **Comment**: 
+  - The uncertainties from demographic processes may show an interaction effect with other uncertainites (e.g. NSC, hydraulics, phenology, nutrient ...).
+  - Attaching another module explicitly seems like a great way of preliminary test.
 
 
 
