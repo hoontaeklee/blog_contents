@@ -167,13 +167,13 @@ Fisher, R., McDowell, N., Purves, D., Moorcroft, P., Sitch, S., Cox, P., Hunting
   1. How demographic processes of two-dimensional spatial scales influence simulations of community structure, and responses of ecosystems to climate change?
   
 - **Context**:
-  - Recently second-generation DGVMs have become advanced in their capability to simulate short-term surface gas and energy exchanges and atmospheric CO~2.
-  - However, the 2^nd gen. DGVMs are still lack in representation of demographic processes because of insufficient observations.
+  - Recently second-generation DGVMs have become advanced in their capability to simulate short-term surface gas and energy exchanges and atmospheric CO<sub>2</sub>.
+  - However, the 2<sup>nd</sup> gen. DGVMs are still lack in representation of demographic processes because of insufficient observations.
   - This poor representations of competition and coexistence may bring uncertainties in simulation of the community structure and responses of ecosystem to climate change.
   
 - **Answer**
   1. Varying the five unconstrained parameters (seed advection, seed mixing, sapling survival, competitive exclusion, and plnat mortality) **introduced diverse predictions of community structure** ranging from monocultures to equal co-dominance of the seven PFTs.
-  2. When exposed to a climate change scenario, the competing impacts of CO~2 fertilization and increasing plant mortality **caused ecosystem biomass to diverge substantially** between simulations.
+  2. When exposed to a climate change scenario, the competing impacts of CO<sub>2</sub> fertilization and increasing plant mortality **caused ecosystem biomass to diverge substantially** between simulations.
   
 - **Implication**:
   - Demographic processes represent a large source of uncertainty in DGVM predictions.
