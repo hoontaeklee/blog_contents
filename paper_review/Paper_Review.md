@@ -185,5 +185,29 @@ Fisher, R., McDowell, N., Purves, D., Moorcroft, P., Sitch, S., Cox, P., Hunting
   - The uncertainties from demographic processes may show an interaction effect with other uncertainites (e.g. NSC, hydraulics, phenology, nutrient ...).
   - Attaching another module explicitly seems like a great way of preliminary test.
 
+# 19 December, 2019
 
+Sakschewski, B., von Bloh, W., Boit, A. et al. Resilience of Amazon forests emerges from plant trait diversity. **_Nature Clim Change_** 6, 1032–1036 (2016) doi:10.1038/nclimate3109
+
+- **Question**:
+  1. Does the higher plant trait diversity lead to higher ecosystem resilience under the climate change for a large-scale prediction?
+  
+- **Context**:
+  - Some studies have reported that plant functional diversity can enhance ecosystem resilience by providing a higher response diversity.
+  - This insight has not yet been examined over a large-scale prediction.
+  
+- **Answer**
+  1. Plant trait diversity can have a strikingly positive effect on the Amazon forests' biomass under future climate change.
+  
+- **Implication**:
+  - Plant trait diversity and biodiversity should be considered in large-scale ecosystem projections.
+  - Plant trait diversity and biodiversity should be included as an integral part of climate change research and policy.
+  
+- **Unanswered**:
+  - Functinoal and structural changes in forest ecosystem should be monitored continuously since the supressed tree types may be suitable better under the future climate condition. 
+
+- **Comment**: 
+  - The authors examined the effect of functional diversity by comparing the simulation results between LPJmL (without functional diversity and competition) and LPJml-FIT (with functional diversity and competition).
+  - This methodology was simple and effective for the objective of the study
+  - The research question had impactive implication which may allow this study to be published in the Nature Climate Change.
 
