@@ -13,11 +13,11 @@ Developing one's research question also requires study papers, but in the stage,
 
 In this context, I asked a question: **which information should I extract from a paper for developing a research question?** I searched the way on Google, [summarized what they told](http://www.naver.com), and specified the list of information as below.
 
+- **Context**: The necessity of the study (question).
 - **Question**: The question the paper wants to answer. Try to write it down as a sentence. Think about that if it is a good research  question or according to the criteria 
-- **Context**: The necessity of the question.
 - **Answer**: Should be paired with the question, or state key findings 
 - **Implication**: How the findings affect or spread out researches in the field of study?
 - **Unanswered**: What remains unanswered? This may be discussed within the paper, or the one should figure it out.
-- **Others**: Private comments (e.g. method or a writing style)
+- **Comment**: Private comments (e.g. method or a writing style)
 
 From now on, I would specify those components with citing information at first and then write about the "others" component that may include context or purpose of reading the paper.
