@@ -209,5 +209,5 @@ Sakschewski, B., von Bloh, W., Boit, A. et al. Resilience of Amazon forests emer
 - **Comment**: 
   - The authors examined the effect of functional diversity by comparing the simulation results between LPJmL (without functional diversity and competition) and LPJml-FIT (with functional diversity and competition).
   - This methodology was simple and effective for the objective of the study
-  - The research question had impactive implication which may allow this study to be published in the Nature Climate Change.
+  - The research question had impactive implication which may allow this study to be published in the *Nature Climate Change*.
 
